@@ -15,7 +15,7 @@ Escritório São Paulo - Higienópolis
 - Voucher para usar táxi todos os meses
 - Videogame para as horas livres depois do trabalho
 
-A remuneração é avaliada individualmente por candidato, leva-se em consideração o perfil e experiência, tudo é sempre conversado e alinhado para que seja vantajoso para todos e considezente com o mercado. Nosso forma de contração é CLT ou PJ tudo é combinado.
+A remuneração é avaliada individualmente por candidato, leva-se em consideração o perfil e experiência, tudo é sempre conversado e alinhado para que seja vantajoso para todos e condizente com o mercado. Nosso forma de contração é CLT ou PJ tudo é combinado.
 
 
 ## Vagas
