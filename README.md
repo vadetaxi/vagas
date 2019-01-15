@@ -93,8 +93,7 @@ Diferenciais
 Diferenciais:
 - Testes automatizados;
 - Conhecimentos em bancos de dados não relacionais;
-- Conhecimento avançado em Docker & Docker Swarm;
-- Conhecimento em DevOps;
+- Conhecimento em Docker;
 - Conhecimento de estrutura de infraestrutura em AWS;
 - Agile methodologies (Scrum, Kanban);
 - Vivência em projetos ágeis
