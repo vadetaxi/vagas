@@ -58,7 +58,7 @@ Diferenciais:
 
 - Experiência de pelo menos 2 anos com desenvolvimento PHP ou Nodejs;
 - Experiência de pelo menos 2 anos  com algum framework de desenvolvimento WEB: Express, Yii, Laravel, etc;
-- Sólidos conhecimentos em arquiterura REST
+- Sólidos conhecimentos em arquitetura REST
 - Conhecimento de HTML, CSS
 - Versionamento de Código: Git
 - Vivência com bancos de dados relacionais preferencialmente Mysql ou PostgreSQL;
