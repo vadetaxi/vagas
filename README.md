@@ -31,6 +31,15 @@ Abaixo listamos nossas vagas em aberto, caso você deseje se candidatar a alguma
 
 ## Full Stack Pleno
 
+### Atividades e Responsabilidades
+- Desenvolvimento e manutenção de aplicações web; 
+- Aplica melhores práticas de documentação de código desenvolvido; 
+- Desenvolver e sustentar integrações; 
+- Realizar a manutenção e criação de novas funcionalidades; 
+- Aplicar melhores práticas de documentação de código desenvolvido; 
+- Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas;
+- Desenvolvimento de funcionalidades no Front-End;
+
 ### Requisitos:
 
 - Experiência de pelo menos 2 anos com desenvolvimento PHP ou Nodejs;
@@ -53,6 +62,14 @@ Diferenciais:
 - Experiência com Microsserviços;
 
 ## Backend Pleno
+
+### Atividades e Responsabilidades
+- Desenvolvimento e manutenção de aplicações web; 
+- Aplica melhores práticas de documentação de código desenvolvido; 
+- Desenvolver e sustentar integrações; 
+- Realizar a manutenção e criação de novas funcionalidades; 
+- Aplicar melhores práticas de documentação de código desenvolvido; 
+- Buscar novas ferramentas e técnicas para a melhoria contínua de nossos sistemas;
 
 ### Requisitos:
 
