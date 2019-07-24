@@ -25,3 +25,26 @@ Manteremos este repositório sempre atualizado com as vagas que temos disponíve
 Abaixo listamos nossas vagas em aberto, caso você deseje se candidatar a alguma delas, por favor envie um email para vagas@vadetaxi.com.br com seu CV anexado - enviar no assunto: Vá de Táxi - NOME DA VAGA
 
 
+* [Android Junior](#android-junior)
+
+
+ ## Android Junior
+
+ ### Requisitos
+Obrigatórios
+- Experiência de pelo menos 2 anos com desenvolvimento de Android;
+- Vivência com comunicação com servidores REST (Volley, Retrofit, etc) e JSON;
+- Ciclo de vida de aplicações e componentes do Android (Application, Activity, Service, ContentProvider, etc);
+- Desenvolver código limpo, de fácil compreensão e manutenção;
+- Capacidade de trabalho com uma equipe multidisciplinar;
+- Ter capacidade de compreender como seu trabalho afeta a empresa como um todo, muito além do código;
+
+Diferenciais
+- Conhecimento de padrões MVP, MVC, MVVM e derivados
+- Conhecimento em Kotlin;
+- Google Play Services (Geolocalização)
+- SDK de mapas (Google, OpenStreetMap, etc);
+- Conhecimentos em Firebase;
+- Crash Analytics (TestFairy, Crashlytics, etc);
+
+
